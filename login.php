@@ -63,7 +63,7 @@ $query = $conn->query("SELECT * FROM system_settings limit 1")->fetch_array();
     .center {
 		
 		width: 100%;
-		height: 580px;
+		height: 725px;
   
 }
 	.admin{
